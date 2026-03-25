@@ -1,0 +1,1 @@
+{"name": "MiCAOracle", "description": "MiCA regulatory traffic light \u2014 24 MCP tools for token-level compliance checks", "category": "compliance", "tags": ["mica", "compliance", "stablecoin", "eu"], "tools": 24, "transport": "streamable-http", "endpoint": "https://mcp.feedoracle.io/mcp/"}
