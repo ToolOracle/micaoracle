@@ -1,1 +1,14 @@
-{"name": "MiCAOracle", "description": "MiCA regulatory traffic light \u2014 24 MCP tools for token-level compliance checks", "category": "compliance", "tags": ["mica", "compliance", "stablecoin", "eu"], "tools": 24, "transport": "streamable-http", "endpoint": "https://mcp.feedoracle.io/mcp/"}
+{
+  "name": "MiCAOracle",
+  "description": "MiCA Regulatory Traffic Light \u2014 stablecoin status, ESMA register, reserve quality, peg monitoring via MCP",
+  "repository": "https://github.com/ToolOracle/micaoracle",
+  "endpoint": "https://tooloracle.io/mica/mcp/",
+  "tools": 24,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "compliance",
+    "mcp",
+    "ai-agent"
+  ]
+}
