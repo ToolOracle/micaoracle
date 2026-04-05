@@ -1,0 +1,5 @@
+name: MiCA AmpelOracle
+description: MiCA stablecoin compliance — 24 tools
+endpoint: https://tooloracle.io/mica/mcp/
+transport: streamable-http
+license: MIT
